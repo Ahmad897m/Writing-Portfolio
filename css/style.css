@@ -1250,6 +1250,6 @@ html[dir="rtl"] .title-box, html[dir="rtl"] .hero-content, html[dir="rtl"] .pkg-
 html[dir="rtl"] .title-box.text-center, html[dir="rtl"] .text-center{text-align:center}
 html[dir="rtl"] .me-3{margin-right:0!important;margin-left:1rem!important}
 html[dir="rtl"] .pkg-list{padding-left:0;padding-right:1.1rem}
-html[dir="rtl"] a[href^="mailto:"], html[dir="rtl"] a[href^="tel:"]{direction:ltr;unicode-bidi:embed;display:inline-block}
+html[dir="rtl"] a[href^="mailto:"], html[dir="rtl"] a[href^="https://wa.me/"]{direction:ltr;unicode-bidi:embed;display:inline-block}
 html[dir="rtl"] .typed{direction:rtl}
 html[dir="rtl"] .w-title{unicode-bidi:plaintext}

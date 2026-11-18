@@ -42,7 +42,6 @@
     "Arabic or English articles, researched and fact-checked.": "مقالات بالعربية أو الإنجليزية، مبنية على البحث ومدقَّقة.",
     "Keyword and outline agreed before writing": "الاتفاق على الكلمات المفتاحية والهيكل قبل الكتابة",
     "Sources listed for every claim": "ذكر المصادر لكل معلومة",
-    "One round of revisions": "جولة تعديلات واحدة",
     "Delivered as a Google Doc or Word file": "تُسلَّم بصيغة Google Doc أو ملف Word",
     "Get a quote": "اطلب عرض سعر",
     "Social Media Monthly Plan": "خطة شهرية لوسائل التواصل",
